@@ -1,0 +1,239 @@
+{
+	"unidadesSfx": [
+	    {
+	      "name": "EsqueletoGuardian",
+	      "sfx": [
+	        {
+	          "action": "golpeoseo",
+	          "file": "golpe_esqueleto1.ogg",
+	          "volume": 0.5,
+	          "loop": false
+	        },
+	        {
+	          "action": "golpeconescudo",
+	          "file": "golpe_escudo1.mp3",
+	          "volume": 0.5,
+	          "loop": false
+	        },
+	        {
+	          "action": "espadazo",
+	          "file": "sonido_espada1.mp3",
+	          "volume": 0.5,
+	          "loop": false
+	        },
+	        {
+	          "action": "muerte",
+	          "file": "esqueleto_muerte.ogg",
+	          "volume": 0.6,
+	          "loop": false
+	        }
+	      ]
+		},
+		{
+		"name": "Cardenal",
+					      "sfx": [
+					        {
+					          "action": "oracion",
+					          "file": "excomulgaroataquecardenal.mp3",
+					          "volume": 0.4,
+					          "loop": false
+					        },
+					        {
+					          "action": "maldicion",
+					          "file": "cardenalmaldicion.mp3",
+					          "volume": 0.6,
+					          "loop": false
+					        },
+					        {
+					          "action": "golpeConCruz",
+					          "file": "cardenalmaldicion.mp3",
+					          "volume": 0.7,
+					          "loop": false
+					        },
+					        {
+					          "action": "excomulgar",
+					          "file": "excomulgaroataquecardenal.mp3",
+					          "volume": 0.7,
+					          "loop": false
+					        },
+					        {
+					          "action": "muerte",
+					          "file": "muertecardenal.mp3",
+					          "volume": 0.6,
+					          "loop": false
+					        }
+					      ]	
+				},
+		{
+			"name": "CulturistaEncapuchado",
+			      "sfx": [
+			        {
+			          "action": "levantarPesas",
+			          "file": "pesaslanzada.mp3",
+			          "volume": 0.7,
+			          "loop": false
+			        },
+			        {
+			          "action": "flexearMusculos",
+			          "file": "flexionculturista.mp3",
+			          "volume": 0.4,
+			          "loop": false
+			        },
+			        {
+			          "action": "embestida",
+			          "file": "embestidaculturista.mp3",
+			          "volume": 0.8,
+			          "loop": false
+			        },
+			        {
+			          "action": "aplastar",
+			          "file": "aplastarculturista.mp3",
+			          "volume": 0.5,
+			          "loop": false
+			        },
+			        {
+			          "action": "muerte",
+			          "file": "muertecardenal.mp3",
+			          "volume": 0.6,
+			          "loop": false
+			        }
+			      ]								
+			},
+			{
+				"name": "Monja",
+				      "sfx": [
+				        {
+				          "action": "rezar",
+				          "file": "rezomonja.mp3",
+				          "volume": 0.5,
+				          "loop": false
+				        },
+				        {
+				          "action": "curar",
+				          "file": "curarmonja.mp3",
+				          "volume": 0.7,
+				          "loop": false
+				        },
+				        {
+				          "action": "gritosagrado",
+				          "file": "monjagrito.mp3",
+				          "volume": 0.7,
+				          "loop": false
+				        },
+				        {
+				          "action": "muerte",
+				          "file": "muertemonja.mp3",
+				          "volume": 0.6,
+				          "loop": false
+				        },
+						{
+							"action": "bibliazo",
+							"file": "bibliazomonja.mp3",
+							"volume": 0.6,
+							"loop": false
+						}
+				      ]
+			},
+			{
+			  "name": "Fantasma",
+			  "sfx": [
+			    {
+			      "action": "ataque",
+			      "file": "ataquefantasmasonido.mp3",
+			      "volume": 0.5,
+			      "loop": false
+			    },
+			    {
+			      "action": "muerte",
+			      "file": "fantasmamuerte.mp3",
+			      "volume": 0.6,
+			      "loop": false
+			    }
+			  ]
+			},
+			{
+				"name": "BossFinal",
+					      "sfx": [
+					        {
+					          "action": "golpeoseo",
+					          "file": "esqueleto_rey_golpeoseo.ogg",
+					          "volume": 0.5,
+					          "loop": false
+					        },
+					        {
+					          "action": "espadazo",
+					          "file": "rey_esqueleto_espadazo.mp3",
+					          "volume": 0.5,
+					          "loop": false
+					        },
+							{
+							"action": "levantarPesas",
+							"file": "pesaslanzada.mp3",
+							"volume": 0.8,
+							 "loop": false
+							},
+							{
+							"action": "flexearMusculos",
+						    "file": "flexionculturista.mp3",
+							"volume": 0.5,
+							"loop": false
+							},
+							{
+							"action": "golpeFantasmal",
+							"file": "golpefantasmal.mp3",
+							"volume": 0.5,
+							"loop": false
+							},
+							{
+								"action": "oracion",	
+								"file": "excomulgaroataquecardenal.mp3",
+								"volume": 0.5,	
+								"loop": false
+							},
+							{
+								"action": "maldicion",	
+								"file": "cardenalmaldicion.mp3",
+								"volume": 0.5,	
+								"loop": false	
+																
+							},
+							{
+							 "action": "rezar",
+							 "file": "excomulgaroataquecardenal.mp3",
+							 "volume": 0.7,
+					         "loop": false
+							 },
+							 {
+								"action": "garrasDemoniacas",
+								"file": "rasguniobossfinal.mp3",
+								"volume": 0.7,
+								"loop": false
+							 },
+							 {
+								"action": "grunido",
+								"file": "gruñidobossfinal.mp3",
+								"volume": 0.6,
+								"loop": false
+								
+							 },
+							 {
+								"action": "daleRo",
+								"file": "dalero.mp3",
+								"volume": 0.7,
+								"loop": false
+								
+							 },
+							 {
+							 "action": "muerte",
+							 "file": "bossfinalmuerte.mp3",
+							 "volume": 0.6,
+							 "loop": false
+							  }
+							
+							]
+										
+			}
+	
+		  		  
+	]
+	}

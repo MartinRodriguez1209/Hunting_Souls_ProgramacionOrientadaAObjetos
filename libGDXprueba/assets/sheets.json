@@ -1,0 +1,49 @@
+{
+  "unidadesData": [
+    {
+      "name": "Fantasma",
+      "path": "fantasma_sheet.png",
+      "cols": 4,
+      "rows": 1
+    },
+    {
+      "name": "Monja",
+      "path": "monja_idle.png",
+      "cols": 4,
+      "rows": 1
+    },
+    {
+      "name": "CulturistaEncapuchado",
+      "path": "culturista_idle_sheet.png",
+      "cols": 4,
+      "rows": 1
+    },
+	{
+	      "name": "Cardenal",
+	      "path": "cardenal_idle_sheet.png",
+	      "cols": 7,
+	      "rows": 1
+	    },
+      {
+        "name": "EsqueletoGuardian",
+        "path": "esqueletoguardian_idle.png",
+        "cols":4,
+        "rows":1
+      },
+	  {			"name": "Jugador",
+				"path": "personaje_principal_sheet.png",
+				"cols": 4,
+				"rows": 1
+			  },
+			  {			"name": "Monja",
+			  			"path": "monja_idle.png",
+			  			"cols": 4,
+			  			"rows": 1
+			  		  },
+					  {			"name": "BossFinal",
+					  		  			"path": "rey_esqueleto_idle.png",
+					  		  			"cols": 4,
+					  		  			"rows": 2
+					  		  		  }
+  ]
+}

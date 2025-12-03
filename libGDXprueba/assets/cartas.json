@@ -1,0 +1,59 @@
+{
+    "tipoAtaque":[
+        {
+            "name": "Agua Bendita",
+            "description": "Arrojas agua bendita al enemigo",
+            "mana":5,
+            "attack":10,
+            "criticalProbability":2
+        },
+        {
+            "name":"Oracion",
+            "description":"Usas tu rosario para orar",
+            "mana":2,
+            "attack":15,
+            "criticalProbability":5
+        },
+        {
+            "name":"Biblia",
+            "description":"Poderoso golpe al enemigo con tu biblia",
+            "mana":3,
+            "attack":20,
+            "criticalProbability":5
+        }
+    ],
+    "tipoCuracion":[
+        {
+            "name":"Rezo desesperado",
+            "description":"Rezas para sanarte",
+            "mana":2,
+            "healing":20
+        },
+        {
+            "name":"Purificacion Santa",
+            "description":"Una oracion que sana el alma",
+            "mana":6,
+            "healing":50
+        }
+        ],
+    "tipoMatar":[
+        {
+            "name":"Golpe de Gracia",
+            "mana":10
+        }
+    ],
+    "tipoDefensa":[
+        {
+            "name":"Escudo",
+            "description":"Usas un escudo para protegerte",
+            "mana":2,
+            "defense":15
+        },
+        {
+            "name":"Escudo Divino",
+            "description":"Un escudo fuerte como el alma de un angel",
+            "mana":4,
+            "defense":30
+        }
+    ]
+}
